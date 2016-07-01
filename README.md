@@ -1,3 +1,4 @@
+[![GoDoc](https://godoc.org/github.com/federicobaldo/go-kura?status.svg)](https://godoc.org/github.com/federicobaldo/go-kura)
 # go-kura
 Some utilities to parse Eclipse Kura payloads in Go.
 
